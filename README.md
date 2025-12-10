@@ -9,9 +9,7 @@ Elle offre une interface simple, intuitive et rapide pour tous ceux qui manipule
 
 - Conversion **SQL vers JSON**
 - Conversion **JSON vers SQL**
-- Détection automatique du type d’entrée
 - Interface graphique moderne avec Tkinter
-- Icônes sur les boutons pour une meilleure UX
 - Gestion des erreurs (input vide, format incorrect, etc.)
 
 ---
@@ -21,7 +19,6 @@ Elle offre une interface simple, intuitive et rapide pour tous ceux qui manipule
 - **Python 3.x**
 - **Tkinter** (UI)
 - **json** (module standard)
-- **re** (regex)
 
 ---
 
