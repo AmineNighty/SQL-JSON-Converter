@@ -29,4 +29,4 @@ Elle offre une interface simple, intuitive et rapide pour tous ceux qui manipule
 
 1. Clonez le dépôt :
 ```bash
-git clone https://github.com/<ton-username>/SQL-JSON-Converter.git
+git clone https://github.com/AmineNighty/SQL-JSON-Converter.git
